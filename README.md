@@ -1,0 +1,1 @@
+Exercises from my computer vision class (OpenCV, C++)
